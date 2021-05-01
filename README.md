@@ -8,20 +8,20 @@
  
 <img src="docs/images/1.0.gif" align="middle" width="500"/>
 
-1.1 Fire hoop
+**1.1 Fire hoop**
 
 <img src="docs/images/1.1.gif" align="middle" width="500"/>
 
 ## 2 Cube with Sensor
 
-2.0 Target Tracking
+**2.0 Target Tracking**
 
 <img src="docs/images/2.0.gif" align="middle" width="500"/>
 
-2.1 Obstacle
+**2.1 Obstacle**
 
 <img src="docs/images/2.1.gif" align="middle" width="500"/>
 
-2.2 More Obstacle
+**2.2 More Obstacle**
 
 <img src="docs/images/2.2.gif" align="middle" width="500"/>
