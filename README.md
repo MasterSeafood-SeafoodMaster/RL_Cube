@@ -4,24 +4,24 @@
 
 ## 1 Simple Cube.
 
-1.0 Target Tracking
+**1.0 Target Tracking**
  
-![](https://i.imgur.com/KxiuFLf.gif)
+<img src="docs/images/1.0.gif" align="middle" width="500"/>
 
-1.1 Fire hoop
+**1.1 Fire hoop**
 
-![](https://i.imgur.com/ZOsFPMW.gif)
+<img src="docs/images/1.1.gif" align="middle" width="500"/>
 
 ## 2 Cube with Sensor
 
-2.0 Target Tracking
+**2.0 Target Tracking**
 
-![](https://i.imgur.com/IcjkpO2.gif)
+<img src="docs/images/2.0.gif" align="middle" width="500"/>
 
-2.1 Obstacle
+**2.1 Obstacle**
 
-![](https://i.imgur.com/Kz1Rt66.gif)
+<img src="docs/images/2.1.gif" align="middle" width="500"/>
 
-2.2 More Obstacle
+**2.2 More Obstacle**
 
-![](https://i.imgur.com/GPnr8j6.gif)
+<img src="docs/images/2.2.gif" align="middle" width="500"/>
