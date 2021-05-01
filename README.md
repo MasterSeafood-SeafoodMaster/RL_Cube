@@ -1,7 +1,7 @@
 # RL_Cube
-I am a Smart Cube
+I am a Smart Cube.
 
-1 Simple Cube
+## 1 Simple Cube.
 
 1.0 Target Tracking
  
@@ -11,7 +11,7 @@ I am a Smart Cube
 
 ![](https://i.imgur.com/ZOsFPMW.gif)
 
-2 Cube with Sensor
+## 2 Cube with Sensor
 
 2.0 Target Tracking
 
