@@ -9,4 +9,4 @@ I am a Smart Cube
 
 ![](https://i.imgur.com/Kz1Rt66.gif)
 
-![](https://i.imgur.com/KxiuFLf.gif)
+![](https://i.imgur.com/IcjkpO2.gif)
