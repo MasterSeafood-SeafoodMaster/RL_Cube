@@ -1,5 +1,6 @@
-# RL_Cube
-I am a Smart Cube.
+# RL_Cube. 
+
+*I am a Smart Cube.*
 
 ## 1 Simple Cube.
 
