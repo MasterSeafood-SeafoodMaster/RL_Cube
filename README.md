@@ -4,7 +4,7 @@
 
 ## 1 Simple Cube.
 
-1.0 Target Tracking
+**1.0 Target Tracking**
  
 <img src="docs/images/1.0.gif" align="middle" width="500"/>
 
