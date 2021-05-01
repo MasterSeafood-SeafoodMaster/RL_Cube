@@ -2,7 +2,11 @@
 
 *I am a Smart Cube.*
 
-## 1 Simple Cube.
+* using Unity_ML Agents
+* using simple NN model and PPO optimizer
+## Preivew
+
+### 1 Simple Cube.
 
 **1.0 Target Tracking**
  
@@ -12,7 +16,7 @@
 
 <img src="docs/images/1.1.gif" align="middle" width="750"/>
 
-## 2 Cube with Sensor
+### 2 Cube with Sensor
 
 **2.0 Target Tracking**
 
